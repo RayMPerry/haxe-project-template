@@ -1,0 +1,7 @@
+build-deps.hxml
+
+-cp test
+-lib utest
+-main UnitTests
+--interp
+-cmd haxelib run checkstyle -s src

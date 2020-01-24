@@ -1,0 +1,8 @@
+build-deps.hxml
+
+-main Application
+--each
+
+
+
+-cmd haxelib run checkstyle -s src
