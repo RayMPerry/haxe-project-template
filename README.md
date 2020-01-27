@@ -1,7 +1,7 @@
 # Haxe Project Template
 
 This is a template repository that uses `lix` as the package manager.
-As a result, there are a few steps that need to be done before engagin
+As a result, there are a few steps that need to be done before engaging
 in Haxe development.
 
 ### Prerequisites
